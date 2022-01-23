@@ -1,4 +1,10 @@
-## Mobile Automation test with python and PyTest
+## Description
+Mobile Automation test based on Appium python with pytest Framework. <br>
+- The Test uses the page object framework.
+- HTML report can be generated with the pytest-html plugin.
+- If test fails, it should take screenshot.
+
+
 
 
 # _My Work_
